@@ -1,0 +1,5 @@
+D:\Dropbox\My Projects\My Projects C#\TShockBroadcast\TShockBroadcast\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\My Projects\My Projects C#\TShockBroadcast\TShockBroadcast\bin\Debug\TShockBroadcast.dll
+D:\Dropbox\My Projects\My Projects C#\TShockBroadcast\TShockBroadcast\bin\Debug\TShockBroadcast.pdb
+D:\Dropbox\My Projects\My Projects C#\TShockBroadcast\TShockBroadcast\obj\Debug\TShockBroadcast.dll
+D:\Dropbox\My Projects\My Projects C#\TShockBroadcast\TShockBroadcast\obj\Debug\TShockBroadcast.pdb
